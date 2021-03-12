@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "munecos-16e7a": {
+      "hosting": {
+        "app": [
+          "munecos-16e7a"
+        ]
+      }
+    }
+  }
+}

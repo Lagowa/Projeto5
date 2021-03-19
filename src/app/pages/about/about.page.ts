@@ -11,5 +11,8 @@ export class AboutPage implements OnInit {
 
   ngOnInit() {
   }
-
+  openSocial(url: string) {
+    window.open(url);
+    return false;
+  }
 }

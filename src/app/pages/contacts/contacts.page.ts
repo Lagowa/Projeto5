@@ -154,4 +154,8 @@ export class ContactsPage implements OnInit {
 
     await alert.present();
   }
+  openSocial(url: string) {
+    window.open(url);
+    return false;
+  }
 }

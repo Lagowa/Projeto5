@@ -13,10 +13,10 @@ export class NewsPage implements OnInit {
   // 3) Atributos
 
   // API Key obtida de http://newsapi.org
-  private apiKey = 'f6b1d5dc3f4c47c483446e353984603f';
+  private apiKey = 'b4b579bdf90549ae9c64b015449b00ab';
 
   // Palavra chave para buscas de notícias
-  private apiQuery = 'leões';
+  private apiQuery = 'Flamengo libertadores';
 
   // Quantas notícias serão exibidas (máx. 20)
   private apiItens = 10;
